@@ -1,0 +1,5 @@
+        Java MiNi Drawing Tool
+Reference App:  MS Paint (Windows XP)
+IDE:            Eclipse, Java 12, Windows 10
+Functions:      Paint (Basic)
+                Picture Editing/Processing  (Basic)

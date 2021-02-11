@@ -1,0 +1,4 @@
+School:     NEU
+Name:       Wang DeJun
+Mail:       574609917@qq.com
+Copyright Andrew Wang 2019.All rights reserved
